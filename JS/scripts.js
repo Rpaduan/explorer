@@ -19,4 +19,4 @@ age: 38,
 stars: 4.8,
 isSubscribed: true
 }
-    console.log (`o ${person.name} tem ${person.age} uma ${person.stars} estrelas`)
+    console.log (`O ${person.name} tem ${person.age} uma ${person.stars} estrelas`)
