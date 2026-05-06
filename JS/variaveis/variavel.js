@@ -14,7 +14,7 @@ let clima = "Quente"
 clima = "Frio"
 
 const cliima = "Quente" //seu valor não pode ser alterado, é constante
-/*cliima = "Frio" // ocorre erro*/
+/*clima = "Frio" // ocorre erro*/
 
 console.log(clima)
 console.log(cliima)
